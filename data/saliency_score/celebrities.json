@@ -1,0 +1,598 @@
+[
+    {
+        "name": "J.K. Rowling",
+        "description": "author of the Harry Potter fantasy series"
+    },
+    {
+        "name": "Usain Bolt",
+        "description": "retired Jamaican sprinter world record holder in 100m"
+    },
+    {
+        "name": "Elon Musk",
+        "description": "CEO of SpaceX and Tesla known for electric cars"
+    },
+    {
+        "name": "Oprah Winfrey",
+        "description": "host of The Oprah Winfrey Show for 25 years"
+    },
+    {
+        "name": "Michael Jordan",
+        "description": "former NBA superstar with six championships with the Bulls"
+    },
+    {
+        "name": "Stephen Hawking",
+        "description": "cosmologist who authored A Brief History of Time"
+    },
+    {
+        "name": "Bill Gates",
+        "description": "Microsoft co-founder turned philanthropist"
+    },
+    {
+        "name": "Lionel Messi",
+        "description": "Barcelona footballer awarded six Ballon d'Or titles"
+    },
+    {
+        "name": "Jeff Bezos",
+        "description": "founder of Amazon and owner of The Washington Post"
+    },
+    {
+        "name": "Mark Zuckerberg",
+        "description": "co-founder and CEO of Facebook"
+    },
+    {
+        "name": "Stephen King",
+        "description": "horror fiction author of The Shining and It"
+    },
+    {
+        "name": "Roger Federer",
+        "description": "tennis player with 20 Grand Slam singles titles"
+    },
+    {
+        "name": "Satoshi Nakamoto",
+        "description": "pseudonymous creator of Bitcoin and its blockchain"
+    },
+    {
+        "name": "Keanu Reeves",
+        "description": "actor starred as Neo in the Matrix series"
+    },
+    {
+        "name": "Malala Yousafzai",
+        "description": "youngest Nobel Prize laureate for advocacy of girls' education"
+    },
+    {
+        "name": "Warren Buffett",
+        "description": "CEO of Berkshire Hathaway known as 'Oracle of Omaha'"
+    },
+    {
+        "name": "Beyoncé",
+        "description": "lead singer of Destiny's Child turned solo artist"
+    },
+    {
+        "name": "Angela Merkel",
+        "description": "first female Chancellor of Germany for 16 years"
+    },
+    {
+        "name": "Ed Sheeran",
+        "description": "British singer-songwriter famous for the song Shape of You"
+    },
+    {
+        "name": "Marie Curie",
+        "description": "pioneer in radioactivity and first woman Nobel laureate"
+    },
+    {
+        "name": "Tim Berners-Lee",
+        "description": "inventor of the World Wide Web and HTML"
+    },
+    {
+        "name": "Emma Watson",
+        "description": "portrayed Hermione Granger in the Harry Potter film series"
+    },
+    {
+        "name": "David Attenborough",
+        "description": "broadcaster known for narrating Planet Earth documentary series"
+    },
+    {
+        "name": "Cristiano Ronaldo",
+        "description": "Portuguese footballer with five Ballon d'Or awards"
+    },
+    {
+        "name": "Margaret Atwood",
+        "description": "author of The Handmaid's Tale dystopian novel"
+    },
+    {
+        "name": "Ruth Bader Ginsburg",
+        "description": "second female justice of the U.S. Supreme Court"
+    },
+    {
+        "name": "Elvis Presley",
+        "description": "King of Rock and Roll with iconic jumpsuits"
+    },
+    {
+        "name": "Vin Diesel",
+        "description": "actor known for playing Dom in Fast & Furious"
+    },
+    {
+        "name": "Cleopatra",
+        "description": "last active pharaoh of Ptolemaic Egypt"
+    },
+    {
+        "name": "Greta Thunberg",
+        "description": "Swedish climate activist famous for school strike"
+    },
+    {
+        "name": "Dwayne Johnson",
+        "description": "wrestler turned actor known as The Rock"
+    },
+    {
+        "name": "Indira Gandhi",
+        "description": "first and only female Prime Minister of India"
+    },
+    {
+        "name": "Bruce Lee",
+        "description": "martial artist starred in Enter the Dragon"
+    },
+    {
+        "name": "Amelia Earhart",
+        "description": "first female aviator to fly solo across Atlantic"
+    },
+    {
+        "name": "Nikola Tesla",
+        "description": "inventor developed alternating current electricity supply system"
+    },
+    {
+        "name": "Frida Kahlo",
+        "description": "Mexican painter known for self-portraits and folk art"
+    },
+    {
+        "name": "Walt Disney",
+        "description": "creator of Disneyland and Mickey Mouse"
+    },
+    {
+        "name": "Hedy Lamarr",
+        "description": "actress and inventor pioneered frequency hopping"
+    },
+    {
+        "name": "Jane Goodall",
+        "description": "primatologist renowned for her work with chimpanzees"
+    },
+    {
+        "name": "Margaret Thatcher",
+        "description": "first female British Prime Minister called Iron Lady"
+    },
+    {
+        "name": "Michael Phelps",
+        "description": "most decorated Olympian with 28 swimming medals"
+    },
+    {
+        "name": "Pablo Picasso",
+        "description": "Spanish painter co-founded the Cubist movement"
+    },
+    {
+        "name": "Steven Spielberg",
+        "description": "director of Jaws E.T. and Jurassic Park"
+    },
+    {
+        "name": "Sir Isaac Newton",
+        "description": "physicist formulated the laws of motion and gravity"
+    },
+    {
+        "name": "Marilyn Monroe",
+        "description": "actress and icon starred in Some Like It Hot"
+    },
+    {
+        "name": "Alan Turing",
+        "description": "father of theoretical computer science and artificial intelligence"
+    },
+    {
+        "name": "Antoni Gaudí",
+        "description": "Catalan architect known for designing the Sagrada Família"
+    },
+    {
+        "name": "Ariana Grande",
+        "description": "pop singer and actress starred in Nickelodeon's Victorious"
+    },
+    {
+        "name": "Charles Darwin",
+        "description": "naturalist who formulated the theory of evolution"
+    },
+    {
+        "name": "J.R.R. Tolkien",
+        "description": "author of The Lord of the Rings"
+    },
+    {
+        "name": "Kobe Bryant",
+        "description": "NBA legend spent 20-year career with the Lakers"
+    },
+    {
+        "name": "Nelson Mandela",
+        "description": "South Africa's anti-apartheid revolutionary and president"
+    },
+    {
+        "name": "Vincent van Gogh",
+        "description": "post-impressionist painter created The Starry Night"
+    },
+    {
+        "name": "Wolfgang Amadeus Mozart",
+        "description": "prolific and influential composer of the Classical era"
+    },
+    {
+        "name": "Yoko Ono",
+        "description": "multimedia artist and widow of John Lennon"
+    },
+    {
+        "name": "Albert Camus",
+        "description": "French philosopher and author of The Stranger"
+    },
+    {
+        "name": "Andy Warhol",
+        "description": "leading figure in the pop art movement"
+    },
+    {
+        "name": "Anne Frank",
+        "description": "Jewish diarist during Holocaust, wrote The Diary of a Young Girl"
+    },
+    {
+        "name": "Arnold Schwarzenegger",
+        "description": "bodybuilder turned actor and California governor"
+    },
+    {
+        "name": "Audrey Hepburn",
+        "description": "actress and fashion icon starred in Breakfast at Tiffany's"
+    },
+    {
+        "name": "Bob Dylan",
+        "description": "folk singer-songwriter awarded the Nobel Prize in Literature"
+    },
+    {
+        "name": "Ellen DeGeneres",
+        "description": "comedian and host of her own daytime talk show"
+    },
+    {
+        "name": "Enrico Fermi",
+        "description": "physicist created first nuclear reactor, Chicago Pile-1"
+    },
+    {
+        "name": "George Orwell",
+        "description": "author of 1984 and Animal Farm"
+    },
+    {
+        "name": "Isaac Newton",
+        "description": "formulated the laws of motion and universal gravitation"
+    },
+    {
+        "name": "Louis Armstrong",
+        "description": "influential jazz trumpeter and singer known as 'Satchmo'"
+    },
+    {
+        "name": "Luciano Pavarotti",
+        "description": "tenor part of The Three Tenors opera sensation"
+    },
+    {
+        "name": "Marlon Brando",
+        "description": "actor known for A Streetcar Named Desire and The Godfather"
+    },
+    {
+        "name": "Neil Armstrong",
+        "description": "astronaut who was the first person to walk on the Moon"
+    },
+    {
+        "name": "Alexander Hamilton",
+        "description": "founding father on US ten-dollar bill"
+    },
+    {
+        "name": "Bob Marley",
+        "description": "Jamaican singer-songwriter and reggae music pioneer"
+    },
+    {
+        "name": "Charles Dickens",
+        "description": "English writer and social critic penned A Christmas Carol"
+    },
+    {
+        "name": "Charlie Chaplin",
+        "description": "actor and filmmaker iconic for his Tramp character"
+    },
+    {
+        "name": "Christopher Columbus",
+        "description": "Italian explorer led first expeditions to the Americas"
+    },
+    {
+        "name": "Galileo Galilei",
+        "description": "astronomer who supported heliocentrism and improved the telescope"
+    },
+    {
+        "name": "Helen Keller",
+        "description": "first deaf-blind person to earn a Bachelor of Arts"
+    },
+    {
+        "name": "Henry Ford",
+        "description": "industrialist founder of Ford Motor Company"
+    },
+    {
+        "name": "Jane Austen",
+        "description": "English novelist known for Pride and Prejudice"
+    },
+    {
+        "name": "Julius Caesar",
+        "description": "Roman general played a critical role in the rise of Rome"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "description": "Renaissance man painted Mona Lisa and The Last Supper"
+    },
+    {
+        "name": "Ludwig van Beethoven",
+        "description": "German composer crucial figure in Western art music"
+    },
+    {
+        "name": "Mahatma Gandhi",
+        "description": "leader of Indian independence movement in British-ruled India"
+    },
+    {
+        "name": "Martin Luther King Jr.",
+        "description": "civil rights leader delivered 'I Have a Dream' speech"
+    },
+    {
+        "name": "Pele",
+        "description": "Brazilian soccer player won three FIFA World Cups"
+    },
+    {
+        "name": "Sigmund Freud",
+        "description": "neurologist founder of psychoanalysis"
+    },
+    {
+        "name": "William Shakespeare",
+        "description": "English playwright and poet author of Hamlet and Macbeth"
+    },
+    {
+        "name": "Alfred Hitchcock",
+        "description": "director of Psycho and pioneer of the thriller genre"
+    },
+    {
+        "name": "Banksy",
+        "description": "anonymous England-based street artist and political activist"
+    },
+    {
+        "name": "Bruce Springsteen",
+        "description": "rock musician nicknamed 'The Boss'"
+    },
+    {
+        "name": "Carl Sagan",
+        "description": "astronomer known for the book and TV series Cosmos"
+    },
+    {
+        "name": "Emily Dickinson",
+        "description": "American poet known for her reclusive and eccentric life"
+    },
+    {
+        "name": "Frank Sinatra",
+        "description": "singer and actor nicknamed 'Ol' Blue Eyes'"
+    },
+    {
+        "name": "Georgia O'Keeffe",
+        "description": "artist known for paintings of enlarged flowers"
+    },
+    {
+        "name": "Harper Lee",
+        "description": "author of the novel To Kill a Mockingbird"
+    },
+    {
+        "name": "Isabel Allende",
+        "description": "Chilean-American author wrote The House of the Spirits"
+    },
+    {
+        "name": "James Cameron",
+        "description": "director of Titanic and Avatar"
+    },
+    {
+        "name": "John F. Kennedy",
+        "description": "35th President of the United States assassinated in 1963"
+    },
+    {
+        "name": "Kurt Cobain",
+        "description": "lead singer of the band Nirvana"
+    },
+    {
+        "name": "Mikhail Gorbachev",
+        "description": "last leader of the Soviet Union introduced Glasnost and Perestroika"
+    },
+    {
+        "name": "Mother Teresa",
+        "description": "Catholic nun and missionary founded the Missionaries of Charity"
+    },
+    {
+        "name": "Plato",
+        "description": "philosopher in Classical Greece student of Socrates"
+    },
+    {
+        "name": "Rosa Parks",
+        "description": "civil rights activist known for Montgomery bus boycott"
+    },
+    {
+        "name": "Susan B. Anthony",
+        "description": "social reformer and women's rights activist"
+    },
+    {
+        "name": "Vincent Van Gogh",
+        "description": "post-impressionist painter created The Starry Night"
+    },
+    {
+        "name": "Alexander Fleming",
+        "description": "one discovered penicillin and pioneered antibiotics"
+    },
+    {
+        "name": "Anne Hathaway",
+        "description": "actress who starred in Les Misérables and The Devil Wears Prada"
+    },
+    {
+        "name": "Antoine de Saint-Exupéry",
+        "description": "author of The Little Prince and a pioneering aviator"
+    },
+    {
+        "name": "Aretha Franklin",
+        "description": "singer known as the Queen of Soul"
+    },
+    {
+        "name": "Benjamin Franklin",
+        "description": "founding father inventor author and diplomat"
+    },
+    {
+        "name": "Confucius",
+        "description": "Chinese philosopher and politician created Confucianism"
+    },
+    {
+        "name": "Ernest Hemingway",
+        "description": "author of The Old Man and the Sea and A Farewell to Arms"
+    },
+    {
+        "name": "Evelyn Glennie",
+        "description": "virtuoso solo percussionist who is profoundly deaf"
+    },
+    {
+        "name": "F. Scott Fitzgerald",
+        "description": "author of The Great Gatsby"
+    },
+    {
+        "name": "George Washington",
+        "description": "first President of the United States"
+    },
+    {
+        "name": "Johnny Cash",
+        "description": "country music artist known as The Man in Black"
+    },
+    {
+        "name": "Julie Andrews",
+        "description": "actress and singer starred in Mary Poppins and The Sound of Music"
+    },
+    {
+        "name": "Marie Antoinette",
+        "description": "last Queen of France before the French Revolution"
+    },
+    {
+        "name": "Socrates",
+        "description": "classical Greek philosopher credited as founder of Western philosophy"
+    },
+    {
+        "name": "Tom Hanks",
+        "description": "actor starred in Forrest Gump and Cast Away"
+    },
+    {
+        "name": "Alexander Graham Bell",
+        "description": "inventor of the first practical telephone"
+    },
+    {
+        "name": "Al Pacino",
+        "description": "actor noted for his role in The Godfather series"
+    },
+    {
+        "name": "Claude Monet",
+        "description": "founder of French Impressionist painting"
+    },
+    {
+        "name": "Gustav Klimt",
+        "description": "Austrian symbolist painter and member of the Vienna Secession"
+    },
+    {
+        "name": "Homer",
+        "description": "ancient Greek author of the Iliad and the Odyssey"
+    },
+    {
+        "name": "John Lennon",
+        "description": "co-founder of the Beatles and peace activist"
+    },
+    {
+        "name": "Leonardo DiCaprio",
+        "description": "actor and environmental activist starred in Titanic"
+    },
+    {
+        "name": "Louis Pasteur",
+        "description": "scientist known for his discoveries in microbiology"
+    },
+    {
+        "name": "Pablo Neruda",
+        "description": "Chilean poet won the Nobel Prize in Literature"
+    },
+    {
+        "name": "Rembrandt",
+        "description": "Dutch master painter known for The Night Watch"
+    },
+    {
+        "name": "A.P.J. Abdul Kalam",
+        "description": "missile man of India and 11th President"
+    },
+    {
+        "name": "Billie Holiday",
+        "description": "jazz musician with a seminal influence on jazz music"
+    },
+    {
+        "name": "C.S. Lewis",
+        "description": "writer and scholar known for The Chronicles of Narnia"
+    },
+    {
+        "name": "Ella Fitzgerald",
+        "description": "American jazz singer known as the First Lady of Song"
+    },
+    {
+        "name": "Frank Lloyd Wright",
+        "description": "architect designed Fallingwater and Guggenheim Museum"
+    },
+    {
+        "name": "Hans Christian Andersen",
+        "description": "Danish author best known for his fairy tales"
+    },
+    {
+        "name": "Immanuel Kant",
+        "description": "central figure in modern philosophy of the Enlightenment"
+    },
+    {
+        "name": "John D. Rockefeller",
+        "description": "industrialist and philanthropist founder of Standard Oil"
+    },
+    {
+        "name": "Maya Angelou",
+        "description": "author and poet wrote I Know Why the Caged Bird Sings"
+    },
+    {
+        "name": "Michelangelo",
+        "description": "Renaissance artist sculpted David and painted Sistine Chapel"
+    },
+    {
+        "name": "Salvador Dalí",
+        "description": "surrealist artist known for The Persistence of Memory"
+    },
+    {
+        "name": "Simone de Beauvoir",
+        "description": "French writer and intellectual penned The Second Sex"
+    },
+    {
+        "name": "Virginia Woolf",
+        "description": "modernist writer known for her narrative style"
+    },
+    {
+        "name": "Carl Linnaeus",
+        "description": "father of modern taxonomy"
+    },
+    {
+        "name": "Diana, Princess of Wales",
+        "description": "member of the British royal family and philanthropist"
+    },
+    {
+        "name": "George Lucas",
+        "description": "filmmaker and creator of Star Wars"
+    },
+    {
+        "name": "Jack Nicholson",
+        "description": "actor known for his roles in One Flew Over the Cuckoo's Nest and The Shining"
+    },
+    {
+        "name": "Rabindranath Tagore",
+        "description": "Bengali polymath and Nobel laureate in Literature"
+    },
+    {
+        "name": "Thomas Edison",
+        "description": "inventor of the phonograph and electric light bulb"
+    },
+    {
+        "name": "William the Conqueror",
+        "description": "first Norman King of England"
+    }
+]
